@@ -1,0 +1,2 @@
+# team-onlyplantss
+Django project
